@@ -16,7 +16,8 @@ Gist_it can send to gist.
 ### How to use
 you can see help
 ```sh
-gist_it -h```
+gist_it -h
+```
 * anonymous mode and secret mode  
 ```sh
 gist_it FILE_NAME
